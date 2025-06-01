@@ -6,3 +6,6 @@ Develop an automated, end-to-end solution for YouTube video transcription, summa
 ## Target Audience:
 Researchers, students, professionals, and content creators needing concise insights with the ability to ask follow-up questions for clarification or more in-depth information.
 
+Credits:
+        Ashwin Bhaskaran,
+        Meher Sarana
